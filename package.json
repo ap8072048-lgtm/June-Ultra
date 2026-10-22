@@ -1,6 +1,6 @@
 {
     "name": "JuneX-Ultra",
-    "version": "3.0.2",
+    "version": "3.0.3",
     "description": "WhatsApp MD-Style Multi-Command Bot by Supreme",
     "main": "index.js",
     "type": "commonjs",
@@ -27,7 +27,7 @@
         "@bochilteam/scraper-facebook": "^5.0.0",
         "@bochilteam/scraper-tiktok": "^5.0.0",
         "@vitalets/google-translate-api": "^9.2.1",
-        "@whiskeysockets/baileys": "7.0.0-rc14",
+        "@whiskeysockets/baileys": "npm:junexbaileys@1.0.3",
         "adm-zip": "^0.5.18",
         "awesome-phonenumber": "^7.8.0",
         "axios": "^1.19.0",
